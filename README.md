@@ -1,1 +1,1 @@
-# Homeworks for C Sharp course
+# Homeworks for C# course
